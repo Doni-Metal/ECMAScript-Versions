@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "DoniMetal",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Doni-Metal/ECMAScript-Versions/issues"
   },
