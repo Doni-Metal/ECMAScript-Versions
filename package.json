@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Doni-Metal/ECMAScript-Versions/issues"
   },
-  "homepage": "https://github.com/Doni-Metal/ECMAScript-Versions#readme"
+  "homepage": "https://github.com/Doni-Metal/ECMAScript-Versions#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
